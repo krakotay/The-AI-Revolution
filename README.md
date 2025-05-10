@@ -1,5 +1,6 @@
 # The-AI-Revolution
 Перевод на русский статьи https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+
 Original article by Tim Urban, Wait But Why: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html  
 © Tim Urban (All rights reserved).  
 Translation © 2025 krakotay.
